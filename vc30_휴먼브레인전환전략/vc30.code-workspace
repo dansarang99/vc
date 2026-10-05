@@ -1,0 +1,12 @@
+﻿{
+    "folders":  [
+                    {
+                        "name":  " vc30 (Main)",
+                        "path":  "."
+                    }
+                ],
+    "settings":  {
+                     "terminal.integrated.defaultProfile.windows":  "PowerShell",
+                     "terminal.integrated.cwd":  "${workspaceFolder}"
+                 }
+}
